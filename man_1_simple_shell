@@ -1,0 +1,19 @@
+.\" Manpage for simple_shell
+.TH man 8 "16 July 2021" "1.0" "simple_shell man page"
+.SH NAME
+simple_shell - a simple UNIX command interpreter
+.SH SYNOPSIS
+
+.SH DESCRIPTION
+This program as a simple UNIX command interpreter. It should have the same output as sh (/bin/sh) as well as the exact same error output unless specified otherwise.
+
+
+.br
+.SH BUGS
+No known bugs
+.SS colphon
+.br
+This page was created as an ALX-Holberton collaboration.
+
+.SH AUTHORS
+.Billie K Mushongwi & Knightess Oyibo
